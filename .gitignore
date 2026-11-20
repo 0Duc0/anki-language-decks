@@ -1,0 +1,11 @@
+corpora
+data/corpus/
+data/work/
+__pycache__/
+*.pyc
+dist/
+data/decks/
+*.anki2
+*.apkg
+*.colpkg
+*.pem
