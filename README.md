@@ -5,7 +5,21 @@ new words. The updates are applied inside Anki with the
 [Card Redesign](https://github.com/0Duc0/anki-card-redesign) add-on, which keeps your own notes and your learning
 progress exactly as they are.
 
-**Downloads:** [latest release](../../releases/latest) – one update file per language (`*.json.gz`).
+**Downloads**
+
+- **Already have the decks?** Use the [latest release](../../releases/latest) – one update file per language
+  (`*.json.gz`), applied with Card Redesign (*Tools → Card Redesign → Check for updates*).
+- **New to the decks?** Import the complete decks from
+  [Complete decks 2026-11-19](../../releases/tag/decks-2026-11-19) (`*.apkg`, without any review history),
+  then run the update above once.
+
+| Deck | File | Notes |
+|---|---|---|
+| Vietnamese | `vietnamese-deck-2026-11-19.apkg` (16 MB) | 31,852 |
+| Japanese | `japanese-deck-2026-11-19.apkg` (102 MB) | 215,615 |
+| Chinese | `chinese-deck-2026-11-19.apkg` (571 MB) | 121,085 |
+
+The complete decks contain no review history, no tags and empty personal fields (`PersonalNotes`, `Notizen`, …).
 
 ## What the 2026-11-20 updates change
 
